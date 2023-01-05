@@ -1,0 +1,25 @@
+{
+  "name": "@theroyalwhee0/highseal-azurekeyvault",
+  "version": "0.0.1",
+  "description": "Azure Key Vault support for Highseal",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theroyalwhee0/highseal-azurekeyvault.git"
+  },
+  "keywords": [
+    "highseal"
+  ],
+  "author": "Adam Mill <hismajesty@theroyalwhee.com> (https://www.theroyalwhee.com)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/theroyalwhee0/highseal-azurekeyvault/issues"
+  },
+  "homepage": "https://github.com/theroyalwhee0/highseal-azurekeyvault#readme",
+  "dependencies": {
+    "@theroyalwhee0/highseal-ext": "0.0.1"
+  }
+}
